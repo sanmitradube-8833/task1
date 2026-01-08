@@ -4,7 +4,7 @@ Create Bucket  For Static website Hosting
 
 ![image alt](https://github.com/sanmitradube-8833/task1/blob/c0f924b3a83d0d765a20bb61f301a1edbcc2dd36/image.png)
 ![image alt](https://github.com/sanmitradube-8833/task1/blob/741b0d0c13d8340785675c521f9e4b8914794265/image.png)
-![image alt](
+![image alt](https://github.com/sanmitradube-8833/task1/blob/309b611922be809b68da8056be8389ae56875006/image.png)
 ![image alt](
 ![image alt](
 ![image alt](
